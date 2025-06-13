@@ -1,0 +1,16 @@
+{
+    "name": "loicdelanoe/clean-header",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/loicdelanoe/clean-header",
+    "authors": [
+      {
+        "name": "Loïc Delanooë",
+        "homepage": "https://loicdelanoe.com"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=8.0"
+    }
+  }
